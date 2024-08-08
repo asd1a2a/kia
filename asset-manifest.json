@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kia/static/css/main.a67d2332.css",
-    "main.js": "/kia/static/js/main.2b8dd449.js",
+    "main.js": "/kia/static/js/main.59ee522c.js",
     "static/js/453.d88b7427.chunk.js": "/kia/static/js/453.d88b7427.chunk.js",
     "static/media/banner-k9.jpg": "/kia/static/media/banner-k9.5040397bf52441873f9e.jpg",
     "static/media/banner-ev3.jpg": "/kia/static/media/banner-ev3.218d4e501d576710aee5.jpg",
@@ -9,11 +9,11 @@
     "static/media/news.jpg": "/kia/static/media/news.1fcca33f97029b04f256.jpg",
     "index.html": "/kia/index.html",
     "main.a67d2332.css.map": "/kia/static/css/main.a67d2332.css.map",
-    "main.2b8dd449.js.map": "/kia/static/js/main.2b8dd449.js.map",
+    "main.59ee522c.js.map": "/kia/static/js/main.59ee522c.js.map",
     "453.d88b7427.chunk.js.map": "/kia/static/js/453.d88b7427.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a67d2332.css",
-    "static/js/main.2b8dd449.js"
+    "static/js/main.59ee522c.js"
   ]
 }
